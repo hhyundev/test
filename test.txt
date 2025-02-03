@@ -11,3 +11,9 @@ fuc()
 //ver3
 a*b
 }
+
+fuc()
+{
+//ver3
+c*d
+}
