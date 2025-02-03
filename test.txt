@@ -11,3 +11,10 @@ fuc()
 //ver2
 a-b
 }
+
+func1()
+{
+//ver2
+c-d
+}
+
