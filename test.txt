@@ -9,7 +9,7 @@ test source code
 fuc()
 {
 //ver3
-a*b
+a/b
 }
 
 fuc()
