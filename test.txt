@@ -8,6 +8,6 @@ test source code
 
 fuc()
 {
-//ver2
-a-b
+//ver3
+a*b
 }
