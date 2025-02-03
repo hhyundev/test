@@ -6,6 +6,7 @@ test3
 
 test source code
 
+<<<<<<< HEAD
 fuc()
 {
 //ver3
@@ -23,3 +24,8 @@ func1()
 c-d
 }
 
+=======
+new mainbranch ++
+
+new main branch --
+>>>>>>> origin/main
