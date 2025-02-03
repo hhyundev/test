@@ -17,3 +17,9 @@ fuc()
 //ver3
 c*d
 }
+func1()
+{
+//ver2
+c-d
+}
+
