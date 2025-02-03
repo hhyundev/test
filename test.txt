@@ -5,3 +5,9 @@ test2
 test3
 
 test source code
+
+fuc()
+{
+//ver1
+a+b
+}
